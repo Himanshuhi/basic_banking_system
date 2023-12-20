@@ -1,0 +1,144 @@
+body {
+  background-color: #000; /* Black */
+  color: #fff;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Ensure the body takes at least the full viewport height */
+}
+
+header {
+  text-align: center;
+  padding: 20px 0;
+  background-color: #87CEEB; /* Sky Blue */
+}
+
+header h1 {
+  margin: 0;
+  color: #000; /* Black */
+}
+
+nav {
+  text-align: center;
+  padding: 10px;
+  background-color: #000;
+  position: relative;
+}
+
+nav a {
+  color: #fff;
+  margin: 0 10px;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #FFA500; /* Orange */
+}
+
+.divider {
+  height: 1px;
+  background-color: #fff;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px;
+  background-color: #2242c1; /* Black */
+}
+
+.content {
+  max-width: 45%;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  font-size: 2em; /* Adjust the font size as needed */
+}
+
+.white-box {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.bank-image {
+  max-width: 100%; /* Make the image responsive */
+  max-height: auto;
+}
+
+.contentbox {
+  padding: 10px;
+  background-color: black;
+  color: white;
+  transition: 0.3s;
+  width: 50%;
+  border-radius: 5px;
+  display: block;
+  margin-top: 20px; /* Adjust as needed */
+}
+
+/* Hovered menu - yellow box */
+.contentbox h1 {
+  font-family: monospace;
+  font-size: 30px;
+  color: white;
+  background-color: #FF8C00;
+  border-radius: 10px;
+  border-style: double;
+  border: 2px solid white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  width: 40%;
+}
+
+.contentbox:hover {
+  transition: 0.3s;
+  border: 2px solid grey;
+  box-shadow: 8px 8px 15px grey;
+  border-radius: 10px;
+}
+
+.content {
+  padding-left: 10vw;
+  padding-right: 10vw;
+}
+
+.subcontent {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.subcontent img {
+  display: block;
+  margin: 0 auto;
+  border-radius: 10px;
+  border-style: double;
+  margin-bottom: 10px; /* Add margin between image and text */
+}
+
+.subcontent h2 {
+  margin-bottom: 10px;
+}
+
+.subcontent h4 {
+  margin-bottom: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  margin-top: auto; /* Push the footer to the bottom */
+  width: 100%;
+}
+
+/* Add glow effect */
+.glow {
+  box-shadow: 0 0 20px #00ff00;
+}
