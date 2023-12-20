@@ -9,7 +9,7 @@ Created a Basic Banking System Website using HTML, CSS, JavaSript and PHP along 
 <H2> OVERVIEW: <H2>
 <h3> INDEX PAGE </H3>
 <img src="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/5a9ce68e-70b8-4340-9ba0-81a446c0b2ce">
-<img scr="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/88cb3f0e-bf88-4e02-9adb-429d9ba603b9">
+<img scr="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/f3342fce-8d27-4e83-8e0c-0378ebd16c54">
 <img src="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/c0f7d9c7-cfc9-4e11-b0cf-4cc0e68d24a1">
   
 <h3> CUSTOMER PAGE </H3>
@@ -24,4 +24,4 @@ Created a Basic Banking System Website using HTML, CSS, JavaSript and PHP along 
 <img src="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/f9b9a655-5e98-4c6b-8296-2c52d9263d4f">
 
 <h3> ABOUT US PAGE </H3>
-<img src=" https://github.com/Himanshuhi/basic_banking_system/assets/97745121/f84a3cb0-306b-4fb4-9545-afc45aa6b0eb">
+<img src="https://github.com/Himanshuhi/basic_banking_system/assets/97745121/4b50994b-8230-4ab5-acf1-f64eebd84e50">
