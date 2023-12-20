@@ -8,7 +8,7 @@ Created a Basic Banking System Website using HTML, CSS, JavaSript and PHP along 
 
 <H2> OVERVIEW: <H2>
 <h3> INDEX PAGE </H3>
-<img src="Screenshot (624)">
+<img src="basic_banking_system/Screenshot (624)">
 <img src="Screenshot (625)">
 <img src="Screenshot (626)">
 
